@@ -12,5 +12,7 @@ It is intended to be used with this [wide-angle pi camera](https://www.amazon.ca
 | --- | --- | --- |
 | **Pi Camera Mount** | Camera mount | ![Pi Camera Mount v6](https://user-images.githubusercontent.com/2540542/160621193-96c7d76b-e15a-4337-8ec6-b8bf21e02f96.png) |
 
-## Camera view
-![Pi Camera View](https://user-images.githubusercontent.com/2540542/160621267-9bb1b83e-a2b7-4249-b0fe-118e597bf60e.jpg)
+## Installation Notes
+* Mount to one of the bed rails using an M3x8 SHCS and T-nut
+* Align so that the camera fits between the X/Y carriage rails when the print head is all the way down. ![Pi Camera Mount Top View](https://user-images.githubusercontent.com/2540542/160623584-1ba79581-f0da-443d-9610-7a405a13a8dc.jpg)
+* Angle the camera to see the entire bed. ![Pi Camera View](https://user-images.githubusercontent.com/2540542/160621267-9bb1b83e-a2b7-4249-b0fe-118e597bf60e.jpg)
