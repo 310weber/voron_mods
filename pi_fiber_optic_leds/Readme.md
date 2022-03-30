@@ -7,7 +7,7 @@ Thanks to the amazing Voron Discord community - **PF#9918** for the original ide
 
 #### This mod makes Raspberry Pi LEDs visible at front of machine.  This is particularly useful to ensure the Pi is finished its shutdown sequence prior to cutting power
 
-https://user-images.githubusercontent.com/2540542/160301472-40bf80aa-4d31-4b27-8ec1-42aa3fb91417.mp4
+![Voron Pi LEDs (small)](https://user-images.githubusercontent.com/2540542/160843123-2fd697d7-4de1-47ba-8474-417a2d32ecff.gif)
 
 ## Part List
 | STL File | Description | Image |
